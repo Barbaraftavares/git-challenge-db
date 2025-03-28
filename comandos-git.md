@@ -8,3 +8,5 @@ E como dito no desafio
 Esse arquivo contém conflitos. Primeiro, ajuste o que está conflitando.
 
 alt text
+
+Texto merge
